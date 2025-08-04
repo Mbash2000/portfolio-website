@@ -52,7 +52,7 @@ This project is part of the **July 2025 PLP Academy Hackathon Portfolio Challeng
 - **Photo Album Web App**: A PHP-based web application for managing photo albums – [GitHub](https://github.com/Mbash2000/photo-album-web-app.git)
 
 ---
-S
+
 ## 📬 Contact Me
 
 📍 Kano, Nigeria  
